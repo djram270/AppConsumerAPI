@@ -1,0 +1,6 @@
+co\unicauca\client\model\Product.class
+co\unicauca\client\gui\GUIClient.class
+co\unicauca\client\AppConsumerAPI.class
+co\unicauca\client\gui\GUIClient$1.class
+co\unicauca\client\JacksonAPIREST.class
+co\unicauca\client\JacksonAPIREST$1.class
